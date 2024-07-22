@@ -5,7 +5,7 @@
 - 📫 How to reach me [→📧](mailto:dhritid1807@gmail.com)
 - 😄 Pronouns: she/her
 
-![snake gif](https://github.com/DhRiTiD/DhRiiTiD/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DhRiTiD/DhRiTiD/blob/output/github-contribution-grid-snake.gif)
 <!--
 **DhRiTiD/DhRiTiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
