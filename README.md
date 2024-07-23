@@ -20,7 +20,7 @@ Hey there! I'm Dhriti, an explorer of the tech cosmos.
 
 ## 📡 Connect With Me
 
-- 📧 [Shoot Me an Email](mailto:7@gmail.com)
+- 📧 [Shoot Me an Email](mailto:dhritid1807@gmail.com)
 - 🌐 [Visit My Website](#) *(coming soon)*
 
 🚀 **Keep Exploring and Stay Curious!**
