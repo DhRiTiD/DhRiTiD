@@ -1,8 +1,28 @@
-### Hi there 👋
+# 🌌 Welcome to Dhriti's Universe 🌌
 
-- 🌱 I’m currently working to polish my skills in Python
-- 💬 Ask me about anything
-- 📫 How to reach me [→📧](mailto:dhritid1807@gmail.com)
-- 😄 Pronouns: she/her
+Hey there! I'm Dhriti, an explorer of the tech cosmos.
 
-![snake gif](https://github.com/DhRiTiD/DhRiTiD/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+## 🌟 What I'm Up To
+
+- 🌱 Mastering the art of **Python**
+- 🚀 Delving into **space, astronomy, and robotics**
+
+## 🚀 A Bit About Me
+
+- 🌠 Entering a new chapter of life
+- 💻 **Code Wizard**: Favorite languages include Python, JS, HTML, CSS
+- 🗂️ **Master Procrastinator**: Still find time to binge-watch my fav series!
+
+## 📖 Fun Facts
+
+- **Reptile Enthusiast** 🦎
+- **Book Lover**: Always immersed in a great read 📚
+
+## 📡 Connect With Me
+
+- 📧 [Shoot Me an Email](mailto:7@gmail.com)
+- 🌐 [Visit My Website](#) *(coming soon)*
+
+🚀 **Keep Exploring and Stay Curious!**
+
+![commit eating snake](https://github.com/DhRiTiD/DhRiTiD/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
