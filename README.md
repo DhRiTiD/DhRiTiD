@@ -5,4 +5,4 @@
 - 📫 How to reach me [→📧](mailto:dhritid1807@gmail.com)
 - 😄 Pronouns: she/her
 
-![snake gif](https://github.com/DhRiTiD/DhRiTiD/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DhRiTiD/DhRiTiD/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
