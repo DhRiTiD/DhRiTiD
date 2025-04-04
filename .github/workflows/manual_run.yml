@@ -1,6 +1,7 @@
 name: manual run
 
 on:
+  workflow_dispatch:
   schedule:
       # every 6 hour
       - cron: "0 */6 * * *"
