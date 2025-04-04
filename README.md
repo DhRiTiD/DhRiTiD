@@ -25,4 +25,9 @@ Hey there! I'm Dhriti, an explorer of the tech cosmos.
 
 🚀 **Keep Exploring and Stay Curious!**
 
-![commit eating snake](https://github.com/DhRiTiD/DhRiTiD/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+## 📈 My Github Stats!
+
+  ![Valtriaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhRiTiD&theme=dark&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhRiTiD&theme=dark&layout=compact)
+  ![Snake Animation](https://github.com/DhRiTiD/DhRiTiD/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=DhRiTiD&theme=discord)
