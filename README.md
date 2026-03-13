@@ -2,6 +2,7 @@
 
 Hey there! I'm Dhriti, an explorer of the tech cosmos.
 
+<!--
 ## 🌟 What I'm Up To
 
 - Mastering the art of **Python**
@@ -24,8 +25,9 @@ Hey there! I'm Dhriti, an explorer of the tech cosmos.
 - 🌐 [Visit My Website](#) *(coming soon)*
 
 🚀 **Keep Exploring and Stay Curious!**
+-->
 
-## 📈 My Github Stats!
+## 📈 My Github Stats
 
   ![Dhriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhRiTiD&theme=dark&show_icons=true)
   ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhRiTiD&theme=dark&layout=compact)
